@@ -56,7 +56,9 @@ I am currently seeking my first professional experience in IT, open to new oppor
 ![SQL & DBA Principles](https://img.shields.io/badge/-SQL%20%26%20DBA%20Principles-000?&logo=Database&logoColor=FFFFFF)
 <hr>
 
-## 🚀 Explore a Signature Project: A Showcase of Code & problem solving  
+
+## 🚀 Explore a Signature Project: A Showcase of Code & problem solving 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg3ZzRxOTUyM3NvaGJjcG5mN3p1NG5pMjN3Y2ZqcDl1MHc0dWsxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rWn4OKPz1958qweCYd/giphy.gif" width="150px">
 
 Check out a code challenge that represents my coding style, problem-solving approach, and technical skills:  
 
