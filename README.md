@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="center">2 years of experience in native Android Development.</h3>
 <hr>
 
-## 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/)
+## 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/tolozaleo/)
 I'm Android Developer with technical and university education, and more than 5 years of experience learning and practicing programming. Passionate about continuous learning and teamwork, with solid knowledge in the development of the entire lifecycle of native Android mobile applications.
 
 I am currently seeking my first professional experience in IT, open to new opportunities and available immediately.
