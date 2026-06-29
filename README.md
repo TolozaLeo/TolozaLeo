@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 <h1 align="center" style="margin:0;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Leonardo Toloza</h1>
  <p align="center">
-  <img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/FocusOn-Android-blue" />
   <img src="https://img.shields.io/badge/Lives-Argentina-blue" />
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-blue" />
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/tolozaleo/)
 I'm Android Developer with technical and university education, and more than 5 years of experience learning and practicing programming. Passionate about continuous learning and teamwork, with solid knowledge in the development of the entire lifecycle of native Android mobile applications.
 
-I am currently seeking my first professional experience in IT, open to new opportunities and available immediately.
+Im currently looking for new job opportunities and am available immediately.
 <hr>
 
 ## 🛠️ Tech Stack
